@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "carousel",
+        "en": "carousel"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "khawaga.mk@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/mkhawaga2022/tw-carousel",
+    "components": []
+}
